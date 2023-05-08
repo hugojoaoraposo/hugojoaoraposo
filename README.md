@@ -12,6 +12,13 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="width:30px;height:30px;">
 </a>
 
+<h2>Languages and Tools</h2>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width:30px;height:30px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width:30px;height:30px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width:30px;height:30px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width:30px;height:30px;">
+<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png" style="width:30px;height:30px;">
+
 
 <!---
 hugojoaoraposo/hugojoaoraposo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
