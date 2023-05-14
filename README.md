@@ -1,24 +1,21 @@
-<h1>Hugo Raposo</h1>
+# 💫 About Me:
+👋 Hi there, I’m Hugo Raposo!<br>👀 I’m interested in software development, technology, and innovation.<br>🌱 I’m currently learning Javascript, React, HTML & CSS, and I'm always seeking to expand my knowledge in other programming languages and frameworks.<br>💞️ I’m looking to collaborate on open-source projects, web applications, and any exciting software development project that challenges me to grow as a developer.<br>📫 How to reach me: You can contact me via email at hugojoaoraposo@gmail.com
 
-- 👋 Hi there, I’m Hugo Raposo!
-- 👀 I’m interested in software development, technology, and innovation.
-- 🌱 I’m currently learning Javascript, React, HTML & CSS, and I'm always seeking to expand my knowledge in other programming languages and frameworks.
-- 💞️ I’m looking to collaborate on open-source projects, web applications, and any exciting software development project that challenges me to grow as a developer.
-- 📫 How to reach me: You can contact me via email at hugojoaoraposo@gmail.com 
 
-<h2>Connect with me on:</h2> 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hugojoaoraposo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hugojoaoraposo) 
 
-<a href="https://www.linkedin.com/in/hugojoaoraposo">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="width:30px;height:30px;">
-</a>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hugojoaoraposo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hugojoaoraposo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hugojoaoraposo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2>Languages and Tools</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=hugojoaoraposo&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width:30px;height:30px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width:30px;height:30px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width:30px;height:30px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="width:30px;height:30px;">
-<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png" style="width:30px;height:30px;">
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 hugojoaoraposo/hugojoaoraposo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
